@@ -1,0 +1,13 @@
+	 	.dark.night {
+		color: grey;
+	}
+	div.col-lg-4{
+		text-align: center;
+		color: blue;
+		
+		border: 2px solid black;
+	}
+	div.row{
+		background-color: orange;
+	}
+	
